@@ -1,0 +1,107 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1434652917459-36f6692da944?auto=format&fit=crop&w=843&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D");
+  background-repeat: no-repeat;
+  min-width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.container {
+  width: 30%;
+  margin: 0 auto;
+  padding: 0 137px;
+}
+
+::placeholder {
+  color: #ff9d00;
+}
+
+.search {
+  height: 25px;
+  font-family: monospace;
+  font-size: 15px;
+  margin-right: 7px;
+  color: #ff9d00;
+}
+
+input {
+  border-radius: 3%;
+  border-color: #b97005;
+  background-color: inherit;
+}
+
+label {
+  display: block;
+  font-family: monospace;
+  color: #ff9d00;
+  font-size: 1.5em;
+  margin-top: 7px;
+}
+
+button {
+  margin-top: 10px;
+  margin-bottom: 7px;
+  display: block;
+  font-family: monospace;
+  font-size: 1em;
+  color: #ff9d00;
+  border-radius: 3%;
+  background-color: inherit;
+  border-color: #b97005;
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 1.5em;
+  font-style: italic;
+  color: #ff9d00;
+}
+
+h2 {
+  font-family: monospace;
+  font-size: 1.2em;
+  font-style: italic;
+  color: #ff9d00;
+}
+
+h3 {
+  font-family: monospace;
+  font-size: 1.5em;
+  font-style: italic;
+  color: #d43e3e;
+}
+.container2 {
+  width: 70%;
+  margin: 0 auto;
+  padding: 0 137px;
+}
+
+p {
+  width: 70%;
+  margin: 0 auto;
+  padding: 0 137px;
+  font-family: monospace;
+  font-size: 1em;
+  color: #ff9d00;
+  text-align: center;
+}
+
+li {
+  margin-top: 5px;
+  list-style-type: none;
+  font-size: 1.2em;
+  font-family: monospace;
+  font-style: italic;
+  color: #ff9d00;
+}
+
+Link {
+  color: #ff9d00;
+  font-size: 1.2em;
+  font-family: monospace;
+  width: 100%;
+  margin-bottom: 7px;
+  text-decoration: none;
+  display: inline-block;
+}
