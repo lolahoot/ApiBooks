@@ -1,0 +1,18 @@
+.navbar{
+  background-color: orange;
+}
+
+.navbar a {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.navbar a:visted {
+  color: pink;
+}
+
+.navbar a:hover {
+  color: firebrick;
+}
